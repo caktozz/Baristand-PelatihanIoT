@@ -1,0 +1,16 @@
+{
+    "name": "ilham/baristand",
+    "description": "Firebase PHP Tutorial",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "ilham system",
+            "email": "admin@ilham.systems"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "5.0"
+    }
+}

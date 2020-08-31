@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "baristand-training",
+  "private_key_id": "277f2f2a694d83763734374080b07b2699a0edfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDe2nzcRXo0R7tP\nkNwQRa9c+oWGY4ZbATYaC/umK6p/O8mJFFqu+gf6WIlQ/TCIVbX8a3+sPyBW0X9m\n3WmqOmYTfdFzbTS2mi6a3fAN1K1T01aJ+ENtNXinZhmtZ1P5ex9fIUOM0uu+lvPy\nztYQA+XXoSLeBh5m+j78K8aNSEC0GOFqUPhptX0qvCOCOzR53VZ27QkhB0DA3GO7\noSR/eUGzgow3wiw5cpYL4escwHUmk9/yf4HytadHGSbqYrY1YKT8Ah6Jh6TU7NtD\neAK1qSqsco5k3x3dizUFbDkM9UxZxl1Ij9Bdocq2cntH1krd39YlZ5Y1CGmTGzQt\nDISfqQ1nAgMBAAECggEAGDOyNlnKmRLmjLrhVgMQtbr0n/uprl3F+l4tc4Zv0Gbg\neY/0U+cOJr9RalzqKw7j4giVUlIouO+s3lxStWH84/EDZihd/oFlaPw2rcnYaQTH\n89k6ZAnX6JYgrmxM+l3HXRVyY0DPdAtWGEXOND8NdGAo4TkuOWYZS67qs+fniadW\nFxDhUnQ7fMgJEpU3Pjalz3ibaacWcvAdwc1OzqvwNbGIJTp2F7KQdBMCXTfyHPID\n5EiqkIsCtv+dARgQd2yNRwo/yj2/PqHyo9EJKyjC8ytiSWReCc07CSYESiZ9FCk8\nfYwUTjKtv29/8jqyxsK08uVjaVf2Z9buAkMpck4vgQKBgQD+s8tERpWfoQMq9idA\n/1k4je43Hwyyf4x5Whh2dGTcVzkI/7sTpjsq6Kifd9aoVyEiDZ/BqdsJ86hejw2X\n6FztjJryHzOe1jQWs7J0nrKdLOjSHsUxmLD+QLoV1nMs9aPvcGrGllAU4v4De58Y\n2m+h8vuYhNEmFCs1ap4KX1FPXwKBgQDf/SdO6/b7tw9fXvaI+/uUVpalzhgYHA1r\ns+lXYkO5CVpgKH3RCjmF8nhFyP2VMebFJh/127FZcOYix7ooY/MlUluDiZbrXVkX\n/jsQk5WmS4P53ztSfEUtnmMx4c91bbDXTMIVA8hoiZpH+CVd4/jxVXFsUz9s8E9p\nwkskl+1m+QKBgQCi0/xJrLowr7WfvHfB1LyMLCgzMvViE6qRVei3qZdlSZmbyCkn\n2aiPuOc781fWjMUQyRbtrxHp3cwwj1GIYLMv5iiUSyAsFhJ8xOp8JYxYcQJyedtk\n5pGYKXcNSOiewHbKNtr8E9IkWC09usUuFU8ygG0ZxycSKeipoHxicyc/DwKBgQCG\nv4LgRbAlqfEDjNt/eSfWC2lBggSYrHeebXNY8HKRZIEMDA/0q9QDMuUMBmgXUxfj\nTpY3j9zXU8X+8myZU9e4gh0vupwiJ9wrRPQ/eqmyiwdwUM0dSElNslU2cwQdPsn+\nG90+SzJLQUyhMzU3kKf4d1BuvH4RiVgc5ZfTAdr98QKBgQDLBgXZNpBXXUfaRW6g\n8FRumg/j6PfOTGQTi9VnadYRPZ8F8ygr/PmdB6f8x2H4kYNGnH7vGBOcVs4V2jSW\nMeYMxg1Remylu0DP+xaUGClZxBBj+Ggak9XqEDznE0woke1XCJxkMLD6GpaZVm40\n+O3N7kVrx9uxIBFNfkZAapsChQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wiqbq@baristand-training.iam.gserviceaccount.com",
+  "client_id": "100812578004633003703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wiqbq%40baristand-training.iam.gserviceaccount.com"
+}
